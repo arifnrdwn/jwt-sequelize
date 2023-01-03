@@ -1,24 +1,26 @@
 {
   "development": {
-    "username": "peyqqopl",
-    "password": "Ihl2OPHHbLJs1FH2ypLUdHCnsiIes7mw",
-    "database": "peyqqopl",
-    "host": "arjuna.db.elephantsql.com",
+    "username": "postgres",
+    "password": "bbeFSZksJ9dncYdbbGBv",
+    "database": "railway",
+    "host": "containers-us-west-76.railway.app",
     "dialect": "postgres",
-    "port": 5432
+    "port": 6584
   },
   "test": {
-    "username": "peyqqopl",
-    "password": "Ihl2OPHHbLJs1FH2ypLUdHCnsiIes7mw",
-    "database": "peyqqopl",
-    "host": "arjuna.db.elephantsql.com",
-    "dialect": "postgres"
+    "username": "postgres",
+    "password": "bbeFSZksJ9dncYdbbGBv",
+    "database": "railway",
+    "host": "containers-us-west-76.railway.app",
+    "dialect": "postgres",
+    "port": 6584
   },
   "production": {
-    "username": "peyqqopl",
-    "password": "Ihl2OPHHbLJs1FH2ypLUdHCnsiIes7mw",
-    "database": "peyqqopl",
-    "host": "arjuna.db.elephantsql.com",
-    "dialect": "postgres"
+    "username": "postgres",
+    "password": "bbeFSZksJ9dncYdbbGBv",
+    "database": "railway",
+    "host": "containers-us-west-76.railway.app",
+    "dialect": "postgres",
+    "port": 6584
   }
 }
